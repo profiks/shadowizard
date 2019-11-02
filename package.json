@@ -12,5 +12,13 @@
     "Helpers"
   ],
   "author": "denys.ark@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profiks/shadowizard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/profiks/shadowizard/issues"
+  },
+  "homepage": "https://github.com/profiks/shadowizard#readme"
 }
