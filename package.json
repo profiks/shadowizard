@@ -1,0 +1,16 @@
+{
+  "name": "shadowizard",
+  "version": "1.0.0",
+  "description": "Util functions for Front End developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no start function specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Front-End",
+    "Helpers"
+  ],
+  "author": "denys.ark@gmail.com",
+  "license": "ISC"
+}
